@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author-Rohit Gundeti
+author-Rohit Gundeti(from jagtial)
